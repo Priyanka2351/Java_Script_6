@@ -1,0 +1,15 @@
+ Java script Execution context
+code{  }----->> global execution context.
+There are three JEC
+1.	Global EC
+2.	Function EC
+3.	Eval EC
+Phases of execution 
+1.	Memory creation phase
+2.	Execution phase
+Global execution -this  
+Memory phase ---> variable declare with undefine, and function with definition
+Execution Phase----> In which assigning the value and if there is function call then the new box is create for the execution in there (new variable environment+ execution thread) 2 step are repeated 
+Memory phase and execution phase…
+Execution in stack LIFO
+Last in first out
